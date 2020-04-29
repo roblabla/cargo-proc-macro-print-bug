@@ -1,0 +1,10 @@
+[package]
+name = "cargo-proc-macro-print"
+version = "0.1.0"
+authors = ["roblabla <unfiltered@roblab.la>"]
+edition = "2018"
+
+[lib]
+proc-macro=true
+
+[dependencies]
